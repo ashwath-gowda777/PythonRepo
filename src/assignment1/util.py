@@ -1,5 +1,5 @@
 #1
-def process_commands(commands):
+def list_operations(commands):
     l1 = []
 
     for com in commands:

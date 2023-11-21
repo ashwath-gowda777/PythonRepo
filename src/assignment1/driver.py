@@ -1,5 +1,5 @@
-from util import process_commands
+from util import list_operations
 
 N = int(input("Enter the number of commands: "))
 user_commands = [input().split() for i in range(N)]
-process_commands(user_commands)
+list_operations(user_commands)src
