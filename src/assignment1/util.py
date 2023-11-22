@@ -21,5 +21,3 @@ def list_operations(commands):
             l1 = l1[::-1]
 
 
-
-
