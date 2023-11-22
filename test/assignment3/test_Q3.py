@@ -1,6 +1,4 @@
 
-# test_Q3
-
 import unittest
 from src.assignment3.util import runner_up_score
 
