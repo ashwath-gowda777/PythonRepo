@@ -20,4 +20,6 @@ def list_operations(commands):
         elif com[0] == "reverse":
             l1 = l1[::-1]
 
+    return l1  # Return the modified list
+
 
