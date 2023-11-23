@@ -23,3 +23,5 @@ def list_operations(commands):
     return l1  # Return the modified list
 
 
+
+
