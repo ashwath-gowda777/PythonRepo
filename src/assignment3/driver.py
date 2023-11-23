@@ -1,4 +1,3 @@
-
 from src.assignment3.util import runner_up_score
 
 if __name__ == "__main__":

@@ -1,5 +1,3 @@
-# util
-
 def runner_up_score(values):
     remove_duplicate = list(set(values))
     remove_duplicate.sort()
