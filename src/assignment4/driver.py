@@ -8,6 +8,5 @@ if __name__ == '__main__':
     mutated_result = mutate_string(input_string, mutation_position, mutation_character)
 
     print("Custom Function Result:", mutated_result)
-
-
+   
 
