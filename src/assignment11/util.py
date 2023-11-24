@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def round_array(input_array):
     array = np.array(input_array, float)
     floor_result = np.floor(array)
