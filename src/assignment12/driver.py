@@ -8,4 +8,3 @@ if __name__ == "__main__":
     result = max_of_min(storage)
 
     print(result)
-
