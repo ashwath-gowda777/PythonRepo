@@ -7,3 +7,4 @@ def total_marks(d, student_name):
 
     print("Student with name {} not found.".format(student_name))
     return None
+  
