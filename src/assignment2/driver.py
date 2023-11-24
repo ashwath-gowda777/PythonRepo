@@ -14,3 +14,4 @@ if __name__ == '__main__':
     # Query for average percentage
     query_name = input("Enter the name of the student to query: ")
     total_marks(student_marks, query_name)
+
