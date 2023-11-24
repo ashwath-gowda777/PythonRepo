@@ -1,7 +1,6 @@
 import unittest
 from src.assignment10.util import time_delta
 
-
 class TestCustomTimeDelta(unittest.TestCase):
 
     def test_cus_time_delta(self):
