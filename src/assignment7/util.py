@@ -27,3 +27,5 @@ def print_pattern(thickness, c='H'):
         result.append(line)
 
     return result
+
+
