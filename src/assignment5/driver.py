@@ -5,3 +5,4 @@ if __name__ == '__main__':
     result = list(split_num_char(string, k))
     for word in result:
         print(word)
+
