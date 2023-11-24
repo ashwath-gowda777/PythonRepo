@@ -8,5 +8,3 @@ if __name__ == '__main__':
     for t1, t2 in get_user_input():
         delta = time_delta(t1, t2)
         print(delta)
-
-
